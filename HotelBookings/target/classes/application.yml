@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: gcdb
+      port: 27017

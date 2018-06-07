@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.catalyte.training.hotel_room_booking.Controllers.CurrencyController_ESTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.905 sec - in com.catalyte.training.hotel_room_booking.Controllers.CurrencyController_ESTest

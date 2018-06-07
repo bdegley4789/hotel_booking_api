@@ -1,0 +1,162 @@
+* Starting client
+* Connecting to master process on port 8146
+* Analyzing classpath: 
+  - C:/Users/begley/Desktop/PDX18-2-begley_hotel_booking/HotelBookings/target/classes
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\deploy.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\access-bridge-64.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\cldrdata.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\dnsns.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\jaccess.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\jfxrt.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\localedata.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\nashorn.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunec.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunjce_provider.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunmscapi.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunpkcs11.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\zipfs.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\javaws.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfxswt.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\management-agent.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\plugin.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar
+  - C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar
+  - C:\Users\begley\Desktop\PDX18-2-begley_hotel_booking\HotelBookings\target\test-classes
+  - C:\Users\begley\Desktop\PDX18-2-begley_hotel_booking\HotelBookings\target\classes
+  - C:\Users\begley\.m2\repository\org\springframework\boot\spring-boot\2.0.2.RELEASE\spring-boot-2.0.2.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-core\5.0.6.RELEASE\spring-core-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-jcl\5.0.6.RELEASE\spring-jcl-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-context\5.0.6.RELEASE\spring-context-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-aop\5.0.6.RELEASE\spring-aop-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\boot\spring-boot-starter-web\2.0.2.RELEASE\spring-boot-starter-web-2.0.2.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\boot\spring-boot-starter-json\2.0.2.RELEASE\spring-boot-starter-json-2.0.2.RELEASE.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.9.5\jackson-datatype-jdk8-2.9.5.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.9.5\jackson-datatype-jsr310-2.9.5.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.9.5\jackson-module-parameter-names-2.9.5.jar
+  - C:\Users\begley\.m2\repository\org\springframework\boot\spring-boot-starter-tomcat\2.0.2.RELEASE\spring-boot-starter-tomcat-2.0.2.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\8.5.31\tomcat-embed-core-8.5.31.jar
+  - C:\Users\begley\.m2\repository\org\apache\tomcat\embed\tomcat-embed-el\8.5.31\tomcat-embed-el-8.5.31.jar
+  - C:\Users\begley\.m2\repository\org\apache\tomcat\embed\tomcat-embed-websocket\8.5.31\tomcat-embed-websocket-8.5.31.jar
+  - C:\Users\begley\.m2\repository\org\hibernate\validator\hibernate-validator\6.0.9.Final\hibernate-validator-6.0.9.Final.jar
+  - C:\Users\begley\.m2\repository\javax\validation\validation-api\2.0.1.Final\validation-api-2.0.1.Final.jar
+  - C:\Users\begley\.m2\repository\org\jboss\logging\jboss-logging\3.3.2.Final\jboss-logging-3.3.2.Final.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-web\5.0.6.RELEASE\spring-web-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-webmvc\5.0.6.RELEASE\spring-webmvc-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\boot\spring-boot-starter\2.0.2.RELEASE\spring-boot-starter-2.0.2.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.0.2.RELEASE\spring-boot-autoconfigure-2.0.2.RELEASE.jar
+  - C:\Users\begley\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar
+  - C:\Users\begley\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar
+  - C:\Users\begley\.m2\repository\org\springframework\data\spring-data-mongodb\2.0.7.RELEASE\spring-data-mongodb-2.0.7.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-tx\5.0.6.RELEASE\spring-tx-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-beans\5.0.6.RELEASE\spring-beans-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\spring-expression\5.0.6.RELEASE\spring-expression-5.0.6.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\data\spring-data-commons\2.0.7.RELEASE\spring-data-commons-2.0.7.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\mongodb\mongo-java-driver\3.5.0\mongo-java-driver-3.5.0.jar
+  - C:\Users\begley\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar
+  - C:\Users\begley\.m2\repository\org\json\json\20160810\json-20160810.jar
+  - C:\Users\begley\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar
+  - C:\Users\begley\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar
+  - C:\Users\begley\.m2\repository\org\apache\logging\log4j\log4j-core\2.11.0\log4j-core-2.11.0.jar
+  - C:\Users\begley\.m2\repository\org\apache\logging\log4j\log4j-api\2.11.0\log4j-api-2.11.0.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-swagger-ui\2.8.0\springfox-swagger-ui-2.8.0.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-spring-web\2.8.0\springfox-spring-web-2.8.0.jar
+  - C:\Users\begley\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar
+  - C:\Users\begley\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-swagger2\2.8.0\springfox-swagger2-2.8.0.jar
+  - C:\Users\begley\.m2\repository\io\swagger\swagger-annotations\1.5.14\swagger-annotations-1.5.14.jar
+  - C:\Users\begley\.m2\repository\io\swagger\swagger-models\1.5.14\swagger-models-1.5.14.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-spi\2.8.0\springfox-spi-2.8.0.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-core\2.8.0\springfox-core-2.8.0.jar
+  - C:\Users\begley\.m2\repository\net\bytebuddy\byte-buddy\1.7.9\byte-buddy-1.7.9.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-schema\2.8.0\springfox-schema-2.8.0.jar
+  - C:\Users\begley\.m2\repository\io\springfox\springfox-swagger-common\2.8.0\springfox-swagger-common-2.8.0.jar
+  - C:\Users\begley\.m2\repository\com\google\guava\guava\20.0\guava-20.0.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\classmate\1.3.4\classmate-1.3.4.jar
+  - C:\Users\begley\.m2\repository\org\springframework\plugin\spring-plugin-core\1.2.0.RELEASE\spring-plugin-core-1.2.0.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\springframework\plugin\spring-plugin-metadata\1.2.0.RELEASE\spring-plugin-metadata-1.2.0.RELEASE.jar
+  - C:\Users\begley\.m2\repository\org\mapstruct\mapstruct\1.2.0.Final\mapstruct-1.2.0.Final.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.5\jackson-databind-2.9.5.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar
+  - C:\Users\begley\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.5\jackson-core-2.9.5.jar
+  - C:\Users\begley\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  - C:\Users\begley\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+* Finished analyzing classpath
+* Generating tests for class com.catalyte.training.hotel_room_booking.Controllers.RoomController
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 15:29:13.050 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: C:\Users\begley\Desktop\PDX18-2-begley_hotel_booking\HotelBookings\.evosuite\evosuite-seeds\com.catalyte.training.hotel_room_booking.Controllers.RoomController.seed
+* Loaded 0 tests from C:\Users\begley\Desktop\PDX18-2-begley_hotel_booking\HotelBookings\.evosuite\evosuite-seeds\com.catalyte.training.hotel_room_booking.Controllers.RoomController.seed
+* Total number of test goals: 
+  - Line 148
+  - Branch 47
+  - Exception 0
+  - MutationFactory 148
+  - Output 15
+  - Method 8
+  - MethodNoException 8
+  - CBranchFitnessFactory 47
+* Using seed 1528237746064
+* Starting evolution
+[MASTER] 15:29:18.389 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Have no generator for interface com.catalyte.training.hotel_room_booking.Repositories.RoomRepository canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 15:29:19.355 [pool-2-thread-1] WARN  TestFactory - Bounded variable issue when calling createVariable()
+[MASTER] 15:29:19.355 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No objects and generators for type class com.catalyte.training.hotel_room_booking.Controllers.RoomController
+[MASTER] 15:29:24.367 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Have no generator for class com.catalyte.training.hotel_room_booking.Entities.Room canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 15:29:28.844 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for java.util.ArrayList due to org.evosuite.ga.ConstructionFailedException: Have no generator for interface com.catalyte.training.hotel_room_booking.Repositories.RoomRepository canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 15:29:31.390 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for java.util.LinkedList due to org.evosuite.ga.ConstructionFailedException: Have no generator for interface com.catalyte.training.hotel_room_booking.Repositories.RoomRepository canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 15:29:58.525 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for java.util.Vector due to org.evosuite.ga.ConstructionFailedException: Have no generator for interface com.catalyte.training.hotel_room_booking.Repositories.RoomRepository canUseFunctionalMocks=false, canBeMocked: true
+* Search finished after 126s and 448 generations, 321932 statements, best individual has fitness: 93.53977224157303
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 71%
+* Total number of goals: 148
+* Number of covered goals: 105
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 70%
+* Total number of goals: 47
+* Number of covered goals: 33
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 93%
+* Total number of goals: 15
+* Number of covered goals: 14
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 89%
+* Total number of goals: 148
+* Number of covered goals: 132
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 27%
+* Total number of goals: 15
+* Number of covered goals: 4
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 8
+* Number of covered goals: 8
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 62%
+* Total number of goals: 8
+* Number of covered goals: 5
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 70%
+* Total number of goals: 47
+* Number of covered goals: 33
+* Generated 23 tests with total length 196
+* Resulting test suite's coverage: 74% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 7%
+* Compiling and checking tests
+* Writing JUnit test case 'RoomController_ESTest' to C:\Users\begley\Desktop\PDX18-2-begley_hotel_booking\HotelBookings\.evosuite\tmp_2018_06_05_15_29_02\tests
+* Done!
+
